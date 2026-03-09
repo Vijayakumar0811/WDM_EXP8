@@ -1,6 +1,7 @@
 ### EX8 Web Scraping On E-commerce platform using BeautifulSoup
 ## NAME: VIJAYAKUMAR S
 ## REG NO: 212224040359
+## DATE: 09-03-2026
 
 ### AIM: To perform Web Scraping on Amazon using (beautifulsoup) Python.
 ### Description: 
